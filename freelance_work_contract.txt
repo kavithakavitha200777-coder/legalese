@@ -1,0 +1,75 @@
+FREELANCE WORK CONTRACT
+
+This Freelance Work Contract (the "Agreement") is entered into as of April 15, 2025 (the "Effective Date"), by and between TechNova Inc., having a principal place of business at [Address] (hereinafter referred to as the "Client"), and Jane Doe, an independent contractor having an address at [Address] (hereinafter referred to as the "Service Provider"). The Client and the Service Provider may collectively be referred to as the "Parties" or individually as a "Party."
+
+RECITALS
+
+WHEREAS, the Client is in need of professional freelance services as set forth herein; and
+
+WHEREAS, the Service Provider possesses the necessary qualifications, experience, and expertise to perform such services; and
+
+WHEREAS, the Client desires to engage the Service Provider, and the Service Provider agrees to be engaged by the Client, to perform the requested services subject to the terms and conditions outlined in this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+1. Scope of Work and Delivery
+a) The Service Provider shall perform and deliver the freelance services and work product described as [Description of Services/Deliverables] (the "Work").
+b) The Service Provider shall complete and deliver the finalized Work to the Client no later than May 15, 2025.
+c) Any modifications, additions, or changes to the Work must be mutually agreed upon in writing by both Parties prior to implementation.
+
+2. Obligations of the Parties
+a) The Service Provider agrees to perform the Work with reasonable skill, care, and diligence, and in accordance with accepted professional industry standards.
+b) The Service Provider shall act as an independent contractor and shall retain sole control over the manner, means, and methods of completing the Work.
+c) The Client agrees to provide the Service Provider with timely access to necessary materials, information, and documentation reasonably required to complete the Work.
+d) The Client shall promptly review deliverables and notify the Service Provider of any discrepancies or required revisions within [Number] days of receipt.
+
+3. Fees and Payment Terms
+a) In consideration for the performance of the Work, the Client shall pay the Service Provider the total compensation of [Amount] [or at the rate of [Rate] per hour/deliverable].
+b) The Service Provider shall submit an itemized written invoice to the Client upon completion of the Work, or in accordance with the milestone schedule set forth in [Schedule/Exhibit Reference].
+c) The Client shall remit full payment of each valid invoice within seven (7) days of invoice receipt.
+d) Overdue payments shall accrue interest at the rate of [Percentage]% per month or the maximum rate permitted by law, whichever is lower.
+
+4. Confidentiality
+a) For purposes of this Agreement, "Confidential Information" includes all non-public, proprietary, or business-sensitive information disclosed by one Party to the other Party, whether orally, in writing, or electronically.
+b) The Service Provider and the Client agree that confidentiality must be maintained at all times.
+c) Neither Party shall disclose, disseminate, or use the Confidential Information of the other Party for any purpose outside the performance of this Agreement without prior written authorization.
+d) The obligations of confidentiality under this Section shall survive the expiration or termination of this Agreement indefinitely and remain binding upon the Parties at all times.
+
+5. Intellectual Property
+a) Upon receipt of full payment by the Client, the Service Provider hereby assigns to the Client all rights, title, and interest, including copyrights, in and to the Work created specifically for the Client pursuant to this Agreement.
+b) The Service Provider retains all rights in pre-existing materials, background intellectual property, standard tools, and know-how owned or developed prior to or independently of this Agreement.
+c) The Service Provider warrants that the Work is original and does not infringe upon the intellectual property or proprietary rights of any third party.
+
+6. Term and Termination
+a) This Agreement shall commence on the Effective Date (April 15, 2025) and shall terminate upon the complete delivery of the Work and full satisfaction of payment obligations, unless earlier terminated as provided herein.
+b) Either Party may terminate this Agreement immediately upon written notice if the other Party materially breaches any term and fails to cure such breach within [Number] days after receiving written notice thereof.
+c) In the event of early termination, the Client shall pay the Service Provider for all authorized Work performed and verified expenses incurred up to the effective date of termination.
+
+7. Limitation of Liability
+a) Neither Party shall be liable to the other Party for any indirect, incidental, consequential, special, or punitive damages arising out of or related to this Agreement.
+b) To the maximum extent permitted by applicable law, the total cumulative liability of either Party under this Agreement shall not exceed the total fees paid or payable by the Client to the Service Provider hereunder.
+
+8. Dispute Resolution
+a) In the event of any controversy, claim, or dispute arising out of or relating to this Agreement, the Parties shall first attempt in good faith to resolve the dispute through informal negotiation.
+b) If the dispute cannot be settled through negotiation within thirty (30) days, the dispute shall be resolved through binding arbitration or formal litigation in accordance with the rules of [Arbitration Body or Court] located in [Jurisdiction].
+
+9. Governing Law
+a) This Agreement shall be governed by, and construed and enforced in accordance with, the laws of the State/Jurisdiction of [Jurisdiction], without giving effect to any principles of conflict of laws.
+b) Each Party irrevocably submits to the exclusive personal jurisdiction of the courts situated in [Jurisdiction] for any legal proceeding arising out of this Agreement.
+
+10. Entire Agreement and Severability
+a) This Agreement constitutes the entire understanding between the Parties concerning the subject matter hereof and supersedes all prior negotiations, understandings, and agreements, whether oral or written.
+b) No amendment, alteration, or modification of this Agreement shall be valid unless executed in writing and signed by both Parties.
+c) If any provision of this Agreement is held to be invalid, illegal, or unenforceable by a court of competent jurisdiction, the remaining provisions shall continue in full force and effect.
+
+IN WITNESS WHEREOF, the parties have executed this document as of the Effective Date.
+
+_________________________________
+TechNova Inc.
+Role: Client
+Date: ____________
+
+_________________________________
+Jane Doe
+Role: Service Provider
+Date: ____________
